@@ -3,12 +3,12 @@
 # content support and don't mind $HOST variable (found below) literally becoming "/"
 # as setting your base URL to "/" let's you to build your website for any domain as
 # opposed to hardcoding it to your's which can cause styling issues wehn you change your domain
-base_url = "https://backups1der.github.io/ametrine-starter-template/"
-title = "Blog name"   # Appears in your browser's tab title and home page
-description = "Description"   # Appears in your site's home page
+base_url = "/"
+title = "Dectraced"   # Appears in your browser's tab title and home page
+description = "A small group of individuals that defeat Rectraced."   # Appears in your site's home page
 
 theme = "ametrine"
-author = "Awesome guy"  # Change it to your online handle (or your name if you're OK with it lol)
+author = "RetroBloxxer"  # Change it to your online handle (or your name if you're OK with it lol)
 
 compile_sass = true
 build_search_index = true
@@ -196,7 +196,6 @@ icon = true
 # Any icon name from https://phosphoricons.com can be used.
 links = [
   { url = "@/blog/_index.md", name = "Blog", icon = "newspaper" },
-  { url = "@/demo/_index.md", name = "Demo", icon = "info" },
   { url = "@/about/_index.md", name = "About me", icon = "user" },
 ]
 
@@ -204,7 +203,7 @@ links = [
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
 # $YEAR will be replaced with current year.
-copyright = "© **Author name**, $YEAR."
+copyright = "© **The Dectraced Team**, $YEAR."
 
 # Whether to show "Powered by Zola and Ametrine", and a link to the source code
 show_powered_by = true
@@ -224,11 +223,6 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
-webrings = [
-  { name = "Example Webring", url = "https://example.com", previous = "https://example.com/prev", next = "https://example.com/next", random = "https://example.com/random" },
-]
-
-note = "<small>Did you know that you could change this text to your liking, and remove it completely?</small>"
 
 # [extra.fediverse]
 # Fediverse integration.
