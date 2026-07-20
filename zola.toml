@@ -5,7 +5,7 @@
 # opposed to hardcoding it to your's which can cause styling issues wehn you change your domain
 base_url = "/"
 title = "Dectraced"   # Appears in your browser's tab title and home page
-description = "A small group of individuals that defeat Rectraced."   # Appears in your site's home page
+description = "A small group of individuals that fight a hacker named Rectraced."   # Appears in your site's home page
 
 theme = "ametrine"
 author = "RetroBloxxer"  # Change it to your online handle (or your name if you're OK with it lol)
@@ -76,7 +76,7 @@ categories = [
 # presets by creating an "accent_presets.toml" file under the "./data/"
 # directory with custom preset names and colors. Use the one located in Ametrine
 # as a reference.
-accent_color = ["hsl(270, 50%, 60%)", "hsl(27.567572, 87%, 67%)"]
+accent_color = "hsl(360, 100%, 46%)"
 
 # Additional CSS styles; expects them to be in the "./static/" directory.
 
