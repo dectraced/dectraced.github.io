@@ -44,9 +44,13 @@ Dectraced focuses on:
 Dectraced is maintained by:
 
 - David Does Tech
+  \
 - RetroBloxxer
+\
 - Binsifir
+ \
 - Srimpimimi
+  \
 - Player36
 
 ## Projects
