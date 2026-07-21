@@ -1,6 +1,6 @@
 +++
-title = "Blog"
-description = "Bro is not filled with content 😭😭🥀"
+title = "DECTRACED News"
+description = "DECTRACED News, everything new that has happened."
 sort_by = "date"
 template = "article_list.html"
 page_template = "article.html"
@@ -27,6 +27,5 @@ no_header = true
 ____0_____0__\|/__@@@@__@@@__________|_\|/__|___\|/__\|/___________|_|_
 {% end %}
 
-# Blog
-
-I love blogging, but blogging doesn't. Pretty sad, I know.
+# DECTRACED News
+Updates, news, announcements and other things about DECTRACED.
