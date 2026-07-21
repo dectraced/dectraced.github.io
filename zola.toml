@@ -8,7 +8,7 @@ title = "Dectraced"   # Appears in your browser's tab title and home page
 description = "A small group of individuals that fight a hacker named Rectraced."   # Appears in your site's home page
 
 theme = "ametrine"
-author = "RetroBloxxer"  # Change it to your online handle (or your name if you're OK with it lol)
+author = "Dectraced Coding Team (RetroBloxxer and David Does Tech)"  # Change it to your online handle (or your name if you're OK with it lol)
 
 compile_sass = true
 build_search_index = true
