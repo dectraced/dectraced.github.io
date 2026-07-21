@@ -15,8 +15,13 @@ So we decided we shouldn't let Rectraced do this anymore. That's why we started 
 We are doing every single thing in our power to take him down and we *WILL* continue.
 ## Team Members:
 David Does Tech (Leader)
+\
 Binsifir (Helps out, organizes stuff and helps with the systems.)
+\
 RetroBloxxer (Tech help, testing, investigating.)
+\
 Player36 (Research, finds info, checks things.)
+\
 Srimpimimi (Text, documents, announcements, summaries.)
+
 {{ sticker(path="/emoji/dectraced.png", name="dectraced-logo") }}
