@@ -1,6 +1,6 @@
 +++
-title = "About this idiot"
-description = "How does this idiot cant stop being an stupid ass? We don't have the answer, though we do have a way to send notifications directly to him."
+title = "About DECTRACED"
+description = "How do we work, what do we do, members, etc"
 generate_feeds = true
 
 
@@ -8,5 +8,15 @@ generate_feeds = true
 no_header = true
 +++
 
-# Hi, my name's <span class="rainbow">[Author name goes here]</span>
-Write stuff about yourself here! {{ sticker(path="/emoji/trolley.png", name="trolley") }}
+# Hi, we're <span class="rainbow">DECTRACED</span>
+We are a team to fight back the hacker RECTRACED.
+He has been annoying us for a very long time, and has made the team leader DAVID DOES TECH even get clowned and has got some hate for it.
+So we decided we shouldn't let Rectraced do this anymore. That's why we started **DECTRACED**.
+We are doing every single thing in our power to take him down and we *WILL* continue.
+## Team Members:
+David Does Tech (Leader)
+Binsifir (Helps out, organizes stuff and helps with the systems.)
+RetroBloxxer (Tech help, testing, investigating.)
+Player36 (Research, finds info, checks things.)
+Srimpimimi (Text, documents, announcements, summaries.)
+{{ sticker(path="/emoji/dectraced.png", name="dectraced-logo") }}
