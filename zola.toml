@@ -180,7 +180,7 @@ show_comments_qr = true
 # favicon          = favicon.png
 # apple_touch_icon = apple-touch-icon.png
 # card             = card.png
-favicon = "🙂"
+favicon = "👨🏻‍💻"
 apple_touch_icon = "favicon.png"
 card = true
 
