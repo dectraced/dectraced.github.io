@@ -30,4 +30,8 @@ The team consists of 5 members:
 
 - Srimpimimi (Text, documents, announcements, summaries.)
 
+- Cat (Technical side of things, systems, tools to fight back Rectraced etc.)
+
+- Akivec (Also technical side, helps organize the team, etc
+
 {{ sticker(path="/favicon.png", name="dectraced-logo") }}
