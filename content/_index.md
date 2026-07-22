@@ -48,7 +48,6 @@ Dectraced is maintained by:
 - Binsifir
 - Srimpimimi
 - Player36
-- Cat
 - Akivec
 
 ## Projects
